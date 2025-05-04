@@ -1,4 +1,3 @@
-package Questao04;
 
 import java.util.Scanner;
 

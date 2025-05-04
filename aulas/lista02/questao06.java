@@ -1,4 +1,3 @@
-package questao06;
 
 public class questao06 {
 

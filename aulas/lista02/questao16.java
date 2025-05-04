@@ -1,4 +1,3 @@
-package questao16;
 
 import java.util.Scanner;
 
