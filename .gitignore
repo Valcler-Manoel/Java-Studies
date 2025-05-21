@@ -1,0 +1,18 @@
+
+.classpath
+.project
+.settings/
+*.launch
+.metadata
+
+# Ignorar arquivos gerados pelo Maven
+target/
+
+.idea/             # IntelliJ IDEA
+*.iml              # IntelliJ IDEA
+*.ipr              # IntelliJ IDEA
+*.iws              # IntelliJ IDEA
+.vscode/           # VS Code
+
+.DS_Store          # Mac
+Thumbs.db          # Windows
