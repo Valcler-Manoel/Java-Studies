@@ -1,4 +1,4 @@
-package com.valcler.curso.conceitos.iniciais;
+package exercicios.sequencial;
 
 import java.util.Scanner;
 

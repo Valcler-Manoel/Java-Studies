@@ -1,4 +1,4 @@
-package com.valcler.curso.conceitos.iniciais;
+package exercicios.sequencial;
 
 // --------------------------------------------------------
 // EXERCÍCIO 01: SOMA DE DOIS NÚMEROS
@@ -18,21 +18,21 @@ import java.util.Scanner;
 
 public class Exercicio01Soma {
 
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in); 
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
 
-        int x, y, soma;
+		int x, y, soma;
 
-        System.out.println("Digite o primeiro valor inteiro:");
-        x = sc.nextInt();
+		System.out.println("Digite o primeiro valor inteiro:");
+		x = sc.nextInt();
 
-        System.out.println("Digite o segundo valor inteiro:");
-        y = sc.nextInt();
+		System.out.println("Digite o segundo valor inteiro:");
+		y = sc.nextInt();
 
-        soma = x + y; 
+		soma = x + y;
 
-        System.out.println("SOMA = " + soma);
+		System.out.println("SOMA = " + soma);
 
-        sc.close();
-    }
+		sc.close();
+	}
 }
