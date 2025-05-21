@@ -2,7 +2,7 @@ package exercicios.sequencial;
 
 import java.util.Scanner;
 
-public class ExercicioNumeroSecreto {
+public class SecretNumber {
 
 	public static void main(String[] args) {
 		int secretNumber = 7;

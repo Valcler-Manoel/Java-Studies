@@ -1,6 +1,6 @@
 package exercicios.sequencial;
 
-public class ExercicioTemperatura {
+public class Temperature {
 
 	public static void main(String[] args) {
 
