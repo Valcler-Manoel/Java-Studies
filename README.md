@@ -1,4 +1,4 @@
-# 📚 Java-Studies: Programming Techniques Discipline Repository (UFC)
+# Java-Studies: Programming Techniques Discipline Repository (UFC)
 This repository is a dedicated space for my learning and practice in the **Programming Techniques** discipline at the Federal University of Ceará (UFC), with a strong focus on **Java** and **Object-Oriented Programming (OOP)**.
 
 ---
