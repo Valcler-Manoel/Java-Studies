@@ -3,18 +3,8 @@ This repository is a dedicated space for my learning and practice in the **Progr
 
 ---
 
-## Repository Objective
 
-The main goals of this repository are:
-
-* **Document progress:** To record the concepts, exercises, and projects developed throughout the course.
-* **Serve as a reference:** To maintain an organized collection of solutions and code examples for future consultation.
-* **Share knowledge:** To provide a resource for other students who are learning the same topics.
-
----
-
-
-## Topics Covered (and In Progress)
+## Topics Covered
 
 The Programming Techniques discipline covers various Java and OOP concepts. Here are the topics that have been (or will be) explored in this repository:
 
