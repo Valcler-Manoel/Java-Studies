@@ -1,8 +1,4 @@
 # 📚 Java-Studies: Programming Techniques Discipline Repository (UFC)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/Valcler-Manoel/Java-Studies?style=for-the-badge&color=green)](https://github.com/Valcler-Manoel/Java-Studies/commits/main)
-[![GitHub contributors](https://img.shields.io/github/contributors/Valcler-Manoel/Java-Studies?style=for-the-badge)](https://github.com/Valcler-Manoel/Java-Studies/graphs/contributors)
-
 This repository is a dedicated space for my learning and practice in the **Programming Techniques** discipline at the Federal University of Ceará (UFC), with a strong focus on **Java** and **Object-Oriented Programming (OOP)**.
 
 ---
